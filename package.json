@@ -1,0 +1,18 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "a little test app",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fun",
+    "ninjas"
+  ],
+  "author": "Esgardo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
